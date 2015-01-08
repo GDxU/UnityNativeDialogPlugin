@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/CCCHesk/UnityNativeDialogPlugin/unityDialogPlugin/build/intermediates/bundles/debug/res/values/values.xml -->
+    <eat-comment/>
+    <string name="app_name">UnityAlmlPlugin</string>
+    <string name="hello">Hello World, UnityAlmlPluginActivity!</string>
+</resources>
